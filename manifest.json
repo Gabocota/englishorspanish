@@ -1,0 +1,14 @@
+{
+    "manifest_version": 3,
+    "name": "Auto corrector ñ",
+    "version": "1.0",
+    "description": "An extension for bilingual users that don't want to be changing their keyboard layout when writing in english.",
+    "permissions": ["activeTab"],
+    "content_scripts": [
+      {
+        "matches": ["<all_urls>"],
+        "js": ["kbhelper.js"]
+      }
+    ]
+  }
+  
