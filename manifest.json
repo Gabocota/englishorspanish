@@ -9,6 +9,7 @@
         "matches": ["<all_urls>"],
         "js": ["kbhelper.js"]
       }
-    ]
+    ],
+    "extension_id": "8fe79372-f1d3-4906-a5a0-278504897f81"
   }
   
