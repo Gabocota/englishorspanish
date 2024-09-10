@@ -38,6 +38,3 @@ for (let x = 0; x < LETRAS.length; x++) {
 setInterval(() => {
   writeJSONToFile("palabras.json", diccionario);
 }, 5000)
-
-test 
-amo a todos sin importar su color de piel
